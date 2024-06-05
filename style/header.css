@@ -31,5 +31,5 @@
 }
 
 .container_botao:checked ~ .lista-menu{
-  display:blok;
+  display: blok;
 }
