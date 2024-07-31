@@ -64,7 +64,8 @@
     font-size: 14px;
 }
 
-.botoes-ancora {
+
+.botoes--ancora {
     background-color: var(--laranja);
     padding: 1em 2.2em;
     color: var(--branco);
@@ -74,4 +75,13 @@
 
 .botoes-item {
     margin: 0 0.5em;
+}
+
+hr {
+marin: 0;
+}
+
+.rodape {
+    backgrounds-color: var(--branco);
+    podding: 1em;
 }
